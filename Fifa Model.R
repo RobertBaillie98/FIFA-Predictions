@@ -13,7 +13,6 @@ library(ggthemes)
 library(ggcorrplot)
 library(psych)
 
-setwd("C:/Users/Bobby/Desktop/Learning/Projects/Complete-Not Quite/Fifa Predictions")
 
 fifa20.full <- read.csv("players_20.csv", header = T,na.strings = c("","NA"))
 fifa21.full <- read.csv("reduced.csv", header = T,na.strings = c("","NA"))
