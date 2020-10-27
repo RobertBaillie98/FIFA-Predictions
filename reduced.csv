@@ -1,0 +1,101 @@
+Name,Ranking,Position,PAC,OVR,SHO,PAS,DRI,DEF,PHY,Club,Nationality
+Lionel Messi,1.0,RW,85.0,93.0,92.0,91.0,95.0,38.0,65.0,FC Barcelona, Argentina
+Cristiano Ronaldo,2.0,ST,89.0,92.0,93.0,81.0,89.0,35.0,77.0,Juventus,Portugal
+Robert Lewandowski,3.0,ST,78.0,91.0,91.0,78.0,86.0,43.0,82.0,FC Bayern,Poland
+Kevin De Bruyne,4.0,CAM,76.0,91.0,86.0,93.0,88.0,64.0,78.0,Manchester City,Belgium
+Neymar Jr,5.0,LW,91.0,91.0,85.0,86.0,94.0,36.0,59.0,Paris Saint Germain,Brazil
+Jan Oblak,6.0,GK,87.0,91.0,92.0,78.0,90.0,50.0,90.0,Atletico Madrid,Slovenia
+Virgil van Dijk,7.0,CB,76.0,90.0,60.0,71.0,72.0,91.0,86.0,Liverpool,Netherlands
+Kylian Mbappé,8.0,ST,96.0,90.0,86.0,78.0,91.0,39.0,76.0,Paris Saint Germain,France
+Mohamed Salah,9.0,RW,93.0,90.0,86.0,81.0,90.0,45.0,75.0,Liverpool,Egypt
+Sadio Mané,10.0,LW,94.0,90.0,85.0,80.0,90.0,44.0,76.0,Liverpool,Senegal
+Marc-André ter Stegen,11.0,GK,88.0,90.0,85.0,88.0,90.0,43.0,88.0,FC Barcelona,Germany
+Alisson,12.0,GK,86.0,90.0,88.0,85.0,89.0,52.0,91.0,Liverpool,Brazil
+Sergio Ramos,13.0,CB,71.0,89.0,70.0,76.0,74.0,88.0,85.0,Real Madrid,Spain
+Manuel Neuer,14.0,GK,87.0,89.0,87.0,91.0,89.0,56.0,86.0,FC Bayern,Germany
+Sergio Agüero,15.0,ST,78.0,89.0,90.0,77.0,88.0,33.0,73.0,Manchester City,Argentina
+Karim Benzema,16.0,CF,74.0,89.0,85.0,81.0,87.0,40.0,76.0,Real Madrid,France
+Casemiro,17.0,CDM,65.0,89.0,73.0,76.0,73.0,86.0,91.0,Real Madrid,Brazil
+Thibaut Courtois,18.0,GK,84.0,89.0,89.0,74.0,88.0,46.0,85.0,Real Madrid,Belgium
+Joshua Kimmich,19.0,CDM,71.0,88.0,72.0,86.0,84.0,81.0,79.0,FC Bayern,Germany
+Toni Kroos,20.0,CM,54.0,88.0,81.0,91.0,81.0,71.0,69.0,Real Madrid,Germany
+Harry Kane,21.0,ST,68.0,88.0,91.0,80.0,81.0,47.0,83.0,Spurs,England
+Eden Hazard,22.0,LW,88.0,88.0,82.0,83.0,92.0,35.0,66.0,Real Madrid,Belgium
+Raheem Sterling,23.0,LW,93.0,88.0,81.0,79.0,90.0,45.0,67.0,Manchester City,England
+Paulo Dybala,24.0,CF,85.0,88.0,85.0,84.0,91.0,43.0,63.0,Juventus,Argentina
+Ederson,25.0,GK,86.0,88.0,82.0,93.0,88.0,64.0,86.0,Manchester City,Brazil
+N'Golo Kanté,26.0,CDM,77.0,88.0,66.0,76.0,81.0,86.0,82.0,Chelsea,France
+Samir Handanovič,27.0,GK,88.0,88.0,85.0,73.0,89.0,53.0,89.0,Inter,Slovenia
+Kalidou Koulibaly,28.0,CB,75.0,88.0,28.0,55.0,69.0,89.0,86.0,Napoli,Senegal
+Luka Modrić,29.0,CM,73.0,87.0,76.0,89.0,88.0,71.0,66.0,Real Madrid,Croatia
+Ciro Immobile,30.0,ST,84.0,87.0,88.0,67.0,83.0,39.0,77.0,Lazio,Italy
+Pierre-Emerick Aubameyang,31.0,ST,93.0,87.0,86.0,75.0,81.0,38.0,69.0,Arsenal,Gabon
+Bruno Fernandes,32.0,CAM,77.0,87.0,83.0,88.0,85.0,68.0,75.0,Manchester United,Portugal
+Ángel Di María,33.0,RW,83.0,87.0,81.0,85.0,87.0,48.0,68.0,Paris Saint Germain,Argentina
+Jadon Sancho,34.0,RM,83.0,87.0,74.0,81.0,91.0,37.0,64.0,Borussia Dortmund,England
+Heung Min Son,35.0,LM,88.0,87.0,86.0,80.0,87.0,43.0,69.0,Spurs,South Korea
+Luis Suárez,36.0,ST,70.0,87.0,90.0,82.0,83.0,51.0,83.0,FC Barcelona,Uruguay
+Trent Alexander-Arnold,37.0,RB,80.0,87.0,66.0,87.0,80.0,80.0,71.0,Liverpool,England
+Antoine Griezmann,38.0,ST,79.0,87.0,85.0,84.0,88.0,57.0,72.0,FC Barcelona,France
+Aymeric Laporte,39.0,CB,63.0,87.0,50.0,72.0,69.0,88.0,81.0,Manchester City,France
+Wojciech Szczęsny,40.0,GK,86.0,87.0,82.0,73.0,88.0,49.0,87.0,Juventus,Poland
+Roberto Firmino,41.0,CF,77.0,87.0,80.0,81.0,90.0,61.0,78.0,Liverpool,Brazil
+Bernardo Silva,42.0,RW,81.0,87.0,77.0,83.0,92.0,51.0,67.0,Manchester City,Portugal
+Andrew Robertson,43.0,LB,83.0,87.0,62.0,80.0,80.0,81.0,76.0,Liverpool,Scotland
+Fabinho,44.0,CDM,67.0,87.0,69.0,79.0,77.0,85.0,83.0,Liverpool,Brazil
+Keylor Navas,45.0,GK,90.0,87.0,81.0,75.0,90.0,54.0,82.0,Paris Saint Germain,Costa Rica
+Sergio Busquets,46.0,CDM,42.0,87.0,62.0,80.0,81.0,83.0,77.0,FC Barcelona,Spain
+Giorgio Chiellini,47.0,CB,66.0,87.0,46.0,58.0,62.0,90.0,79.0,Juventus,Italy
+Hugo Lloris,48.0,GK,89.0,87.0,82.0,68.0,90.0,64.0,84.0,Spurs,France
+Thomas Müller,49.0,CAM,68.0,86.0,82.0,82.0,78.0,56.0,71.0,FC Bayern,Germany
+Jamie Vardy,50.0,ST,88.0,86.0,85.0,66.0,79.0,55.0,75.0,Leicester City,England
+Paul Pogba,51.0,CM,73.0,86.0,81.0,86.0,85.0,66.0,85.0,Manchester United,France
+Marco Verratti,52.0,CM,64.0,86.0,60.0,85.0,90.0,79.0,67.0,Paris Saint Germain,Italy
+Piqué,53.0,CB,57.0,86.0,61.0,71.0,69.0,86.0,80.0,FC Barcelona,Spain
+Alejandro Gómez,54.0,CAM,90.0,86.0,79.0,84.0,88.0,39.0,55.0,Atalanta,Argentina
+Jordan Henderson,55.0,CDM,65.0,86.0,74.0,84.0,79.0,81.0,82.0,Liverpool,England
+Carvajal,56.0,RB,80.0,86.0,54.0,78.0,81.0,82.0,80.0,Real Madrid,Spain
+Mats Hummels,57.0,CB,58.0,86.0,58.0,77.0,73.0,89.0,77.0,Borussia Dortmund,Germany
+David Silva,58.0,CAM,64.0,86.0,74.0,88.0,88.0,52.0,55.0,Real Sociedad,Spain
+De Gea,59.0,GK,88.0,86.0,81.0,78.0,89.0,57.0,82.0,Manchester United,Spain
+Raphaël Varane,60.0,CB,82.0,86.0,49.0,64.0,65.0,87.0,82.0,Real Madrid,France
+Jordi Alba,61.0,LB,88.0,86.0,69.0,81.0,83.0,78.0,72.0,FC Barcelona,Spain
+Yann Sommer,62.0,GK,80.0,86.0,86.0,85.0,85.0,50.0,87.0,Borussia Monchen Gladbach,Switzerland
+Serge Gnabry,63.0,RM,82.0,85.0,83.0,78.0,85.0,43.0,70.0,FC Bayern,Germany
+Marquinhos,64.0,CB,72.0,85.0,41.0,73.0,71.0,87.0,78.0,Paris Saint Germain,Brazil
+Romelu Lukaku,65.0,ST,81.0,85.0,83.0,76.0,75.0,38.0,84.0,Inter,Belgium
+Thiago,66.0,CM,64.0,85.0,72.0,85.0,90.0,70.0,62.0,FC Bayern,Spain
+Kai Havertz,67.0,CAM,84.0,85.0,81.0,79.0,85.0,45.0,67.0,Chelsea,Germany
+Luis Alberto,68.0,CAM,74.0,85.0,76.0,86.0,85.0,58.0,59.0,Lazio,Brazil
+Riyad Mahrez,69.0,RW,83.0,85.0,79.0,81.0,90.0,38.0,59.0,Manchester City,Algeria
+Memphis Depay,70.0,CF,86.0,85.0,83.0,81.0,83.0,32.0,80.0,OL,Netherlands
+Gianluigi Donnarumma,71.0,GK,89.0,85.0,81.0,76.0,89.0,49.0,83.0,AC Milan,Italy
+Hakim Ziyech,72.0,CAM,80.0,85.0,76.0,87.0,83.0,50.0,66.0,Chelsea,Morocco
+Marco Reus,73.0,CAM,80.0,85.0,86.0,84.0,85.0,45.0,63.0,Borussia Dortmund,Germany
+Timo Werner,74.0,ST,91.0,85.0,85.0,69.0,84.0,35.0,71.0,Chelsea,Germany
+Sergej Milinković-Savić,75.0,CM,69.0,85.0,79.0,80.0,83.0,79.0,85.0,Lazio,Serbia
+Georginio Wijnaldum,76.0,CM,76.0,85.0,75.0,81.0,86.0,78.0,79.0,Liverpool,Netherlands
+Matthijs de Ligt,77.0,CB,72.0,85.0,59.0,66.0,69.0,85.0,84.0,Juventus,Netherlands
+Thiago Silva,78.0,CB,59.0,85.0,54.0,72.0,72.0,86.0,78.0,Chelsea,Brazil
+Ricardo Pereira,79.0,RB,83.0,85.0,66.0,79.0,82.0,81.0,76.0,Leicester City,Portugal
+Lorenzo Insigne,80.0,LW,88.0,85.0,78.0,83.0,91.0,36.0,44.0,Napoli,Italy
+Miralem Pjanić,81.0,CM,67.0,85.0,68.0,87.0,85.0,75.0,67.0,FC Barcelona,Bosnia & Herz
+Marcus Rashford,82.0,LM,91.0,85.0,83.0,78.0,85.0,45.0,78.0,Manchester United,England
+Leroy Sané,83.0,LM,93.0,85.0,81.0,79.0,85.0,38.0,67.0,Manchester City,Germany
+Parejo,84.0,CM,50.0,85.0,83.0,90.0,81.0,71.0,69.0,Villareal,Spain
+Milan Škriniar,85.0,CB,69.0,85.0,41.0,59.0,66.0,87.0,81.0,Inter,Slovenia
+Koke,86.0,CM,67.0,85.0,75.0,85.0,81.0,76.0,80.0,Atletico Madrid,Spain
+Dries Mertens,87.0,CF,86.0,85.0,82.0,80.0,89.0,35.0,51.0,Napoli,Belgium
+Bernd Leno,88.0,GK,85.0,85.0,83.0,80.0,86.0,55.0,84.0,Arsenal,Germany
+Clément Lenglet,89.0,CB,74.0,85.0,45.0,67.0,66.0,87.0,81.0,FC Barcelona,France
+Leonardo Bonucci,90.0,CB,60.0,85.0,58.0,69.0,71.0,87.0,77.0,Juventus,Italy
+Frenkie de Jong,91.0,CM,80.0,85.0,64.0,84.0,87.0,76.0,77.0,FC Barcelona,Netherlands
+Rodri,92.0,CDM,65.0,85.0,68.0,77.0,77.0,82.0,80.0,Manchester City,Spain
+Péter Gulácsi,93.0,GK,84.0,85.0,85.0,82.0,86.0,43.0,84.0,RB Leipzig,Hungary
+Toby Alderweireld,94.0,CB,63.0,85.0,55.0,72.0,68.0,87.0,79.0,Spurs,Belgium
+Diego Godín,95.0,CB,57.0,85.0,48.0,64.0,62.0,87.0,79.0,Inter,Uruguay
+Mauro Icardi,96.0,ST,73.0,85.0,85.0,65.0,78.0,36.0,68.0,Paris Saint Germain,Argentina
+Kyle Walker,97.0,RB,92.0,85.0,63.0,76.0,77.0,80.0,82.0,Manchester City,England
+Alex Sandro,98.0,LB,81.0,85.0,65.0,77.0,80.0,81.0,81.0,Juventus,Brazil
+Christian Eriksen,99.0,CAM,72.0,85.0,81.0,88.0,82.0,53.0,63.0,Inter,Denmark
+Erling Haaland,100.0,ST,84.0,84.0,87.0,63.0,76.0,43.0,85.0,Borussia Dortmund,Norway
